@@ -1,0 +1,34 @@
+Final Consumption of coking coal, 1000 tonnes: 11863.92763248816
+Net imports of coking coal, 1000 tonnes: 10150.615767955864
+Production of charcoal, 1000 tonnes: 9597.595811459436
+Final consumption of Charcoal ( 1000 tonnes ): 9597.595811459436
+Production of crude oil, NLG and additives, 1000 tonnes: 1066666.1878173614
+Refinery output of oil products, 1000 tonnes: 314627.0243972038
+Final consumption of oil, 1000 tonnes: 172276.4131754088
+Consumption of oil in industry, 1000 tonnes: 21006.07425779224
+Consommation de pétrole dans les transports, 1000 tonnes: 102450.2434143016
+Net imports of crude oil, NGL, refinery feedstocks and additives, 1000 tonnes: -656479.5048702294
+Net imports of oil products, 1000 tonnes: -240048.5228180732
+Production of natural gas, Tj: 51944943.106966734
+Final consumption of natural gas, Tj: 5622523.568703131
+Consumption of natural gas in industry, Tj: 1544895.352953936
+Net imports of natural gas, Tj: -35375291.3630096
+Production of electricity from fossil fuels, GWh: 591819.40714
+Production of hydro electricity, GWh: 3384.0686400000004
+Total production of electricity, GWh: 595879.78378
+Final consumption of electricity, GWh: 507281.68913442944
+Consumption of electricity in industry, GWh: 151543.4386690865
+Consumption of electricity in transport, GWh: 7988.517546817536
+Net imports of electricity, GWh: 800.4520978896795
+Consumption of coking coal in industry , 1000 tonnes: 1572.2602386614071
+Production of electricity from solar, wind, tide, wave and other sources, GWh: 676.308
+Production of electricity from renewable sources (GWh): 4003.37664
+Production of Coal (1000 tonnes): 206.0
+Consumption of oil in Households  ( 1000 tonnes ): 21323.89914510999
+Consumption of oil in others ( 1000 tonnes ): 4039.154389245401
+Consumption of electricity in Households ( GWh ): 186917.94478671844
+Consumption of electricity in Service Public ( GWh ): 13927.3392552017
+Consumption of electricity in others ( GWh ): 727.0
+Production of Firewood (1000 tonnes): 18636.91308837868
+
+Total energy consumption for this region: 26669505.868562866

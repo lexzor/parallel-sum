@@ -1,0 +1,31 @@
+Final Consumption of coking coal, 1000 tonnes: 376.0
+Production of charcoal, 1000 tonnes: 2959.689500753011
+Final consumption of Charcoal ( 1000 tonnes ): 2959.689500753011
+Production of crude oil, NLG and additives, 1000 tonnes: 52666.71198484705
+Refinery output of oil products, 1000 tonnes: 21868.636555999998
+Final consumption of oil, 1000 tonnes: 55846.87118157251
+Consumption of oil in industry, 1000 tonnes: 14184.845501111977
+Consommation de pétrole dans les transports, 1000 tonnes: 25671.92066517289
+Net imports of crude oil, NGL, refinery feedstocks and additives, 1000 tonnes: -33589.5016517861
+Net imports of oil products, 1000 tonnes: 47770.90168983607
+Production of natural gas, Tj: 1483054.062215257
+Final consumption of natural gas, Tj: 611867.129488444
+Consumption of natural gas in industry, Tj: 456579.25478035375
+Net imports of natural gas, Tj: 1293235.1989703136
+Production of electricity from fossil fuels, GWh: 209028.67762200002
+Production of hydro electricity, GWh: 1319.642
+Production of electricity from solar, wind, tide, wave and other sources, GWh: 1351.359
+Total production of electricity, GWh: 213539.637444
+Final consumption of electricity, GWh: 192454.969383178
+Consumption of electricity in industry, GWh: 75390.67225408889
+Consumption of electricity in transport, GWh: 2149.403561299711
+Net imports of electricity, GWh: -135.7685858160508
+Production of electricity from renewable sources (GWh): 2685.6309999999994
+Consumption of oil in Households  ( 1000 tonnes ): 5327.683957821517
+Consumption of oil in others ( 1000 tonnes ): 12192.385326803964
+Consumption of electricity in Households ( GWh ): 48450.19663527081
+Consumption of electricity in Service Public ( GWh ): 50640.770789160095
+Consumption of electricity in others ( GWh ): 70500.64793565952
+Production of Firewood (1000 tonnes): 46049.2206366073
+
+Total energy consumption for this region: 4966396.539342703

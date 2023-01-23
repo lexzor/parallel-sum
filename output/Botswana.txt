@@ -1,0 +1,20 @@
+Final Consumption of coking coal, 1000 tonnes: 7194.288950667144
+Consumption of coking coal in industry , 1000 tonnes: 4273.221470699558
+Net imports of coking coal, 1000 tonnes: 140.86922004957393
+Production of charcoal, 1000 tonnes: 1021.6892231397144
+Final consumption of Charcoal ( 1000 tonnes ): 1021.6892231397145
+Production of Coal (1000 tonnes): 15189.007020529983
+Final consumption of oil, 1000 tonnes: 11197.779362817499
+Consumption of oil in industry, 1000 tonnes: 1920.621841337576
+Consommation de pétrole dans les transports, 1000 tonnes: 8287.681702206934
+Net imports of oil products, 1000 tonnes: 11450.25512641729
+Production of electricity from fossil fuels, GWh: 17448.848
+Total production of electricity, GWh: 17483.872
+Final consumption of electricity, GWh: 48899.674548306924
+Consumption of electricity in industry, GWh: 19219.06752972291
+Net imports of electricity, GWh: 33705.64841707002
+Production of electricity from solar, wind, tide, wave and other sources, GWh: 32.024
+Consumption of electricity in transport, GWh: 3.0
+Production of electricity from renewable sources (GWh): 35.024
+
+Total energy consumption for this region: 198524.26163610484

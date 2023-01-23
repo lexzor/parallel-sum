@@ -1,0 +1,33 @@
+Final Consumption of coking coal, 1000 tonnes: 19350.480825452578
+Consumption of coking coal in industry , 1000 tonnes: 8988.451559586128
+Net imports of coking coal, 1000 tonnes: 20352.869391845197
+Production of charcoal, 1000 tonnes: 19640.20390277935
+Final consumption of Charcoal ( 1000 tonnes ): 19640.20390277935
+Production of Coal (1000 tonnes): 366.0
+Production of crude oil, NLG and additives, 1000 tonnes: 485654.97250000003
+Refinery output of oil products, 1000 tonnes: 427288.6974107493
+Final consumption of oil, 1000 tonnes: 368017.03414193017
+Consumption of oil in industry, 1000 tonnes: 76945.52511150035
+Consommation de pétrole dans les transports, 1000 tonnes: 174042.9613538762
+Net imports of crude oil, NGL, refinery feedstocks and additives, 1000 tonnes: -46047.8000499479
+Net imports of oil products, 1000 tonnes: 3474.22697505199
+Production of natural gas, Tj: 27080130.336786646
+Final consumption of natural gas, Tj: 6663225.04701567
+Consumption of natural gas in industry, Tj: 3458120.8611186184
+Net imports of natural gas, Tj: -4770614.645560848
+Production of electricity from fossil fuels, GWh: 1597670.10752
+Production of hydro electricity, GWh: 204437.71000000002
+Production of electricity from solar, wind, tide, wave and other sources, GWh: 14274.6008
+Total production of electricity, GWh: 1816382.4183200002
+Final consumption of electricity, GWh: 1627924.968112098
+Consumption of electricity in industry, GWh: 520798.2258259736
+Net imports of electricity, GWh: -11074.810851043627
+Consumption of electricity in transport, GWh: 1507.88
+Production of electricity from renewable sources (GWh): 218712.31080000004
+Consumption of oil in Households  ( 1000 tonnes ): 58493.948619370116
+Consumption of oil in others ( 1000 tonnes ): 21212.23874596121
+Consumption of electricity in Households ( GWh ): 623565.2824993336
+Consumption of electricity in Service Public ( GWh ): 376531.84137685876
+Consumption of electricity in others ( GWh ): 64539.5720175942
+
+Total energy consumption for this region: 41143551.72017183
